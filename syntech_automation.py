@@ -107,7 +107,7 @@ PROXY_SERVICE_URL = ""  # e.g. "http://customer-xxx-session-auto:pass@pr.superpr
 
 PROXY_FILE = ""  # e.g. "/tmp/proxies.txt"
 
-USE_TOR = False
+USE_TOR = True
 TOR_PROXY = "socks5://127.0.0.1:9050"
 
 # ================================================================
